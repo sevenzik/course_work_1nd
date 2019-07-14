@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AtStartImageBoard">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAQAgAAAAAAAAAAAEAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\AtStartImageBoard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Info">
+    <Position X="8.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAEAAAAIAAIAAAAQAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Classes\Info.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Record">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Classes\Record.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Changer">
+    <Position X="8.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAQAAAAAAAAAAAAAAAAAAAAgAEAAAQAAA=</HashCode>
+      <FileName>Assets\Scripts\For Cube\Changer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MouseRotation">
+    <Position X="2.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAgAAAAAQAAgAEAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\For Cube\MouseRotation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextureScript">
+    <Position X="5.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\For Cube\TextureScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AtStartCubes">
+    <Position X="4" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAIAAAAAAAAAAAAABQAIAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\For Cubes\AtStartCubes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChangePlaces">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgQAAAABCBAAAACAAAAAAAAAAAAAAAAEAAAAAAAIAA=</HashCode>
+      <FileName>Assets\Scripts\For Cubes\ChangePlaces.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompleteChecker">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAAQABiAAUAAAACAAAAAAAAEAAAAgEEAAAAiCEAA=</HashCode>
+      <FileName>Assets\Scripts\For Cubes\CompleteChecker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuScreenChanger">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>VAeSAABagOAAAYIgAYEAAAQCkChECAQAqQKAEWAgAAA=</HashCode>
+      <FileName>Assets\Scripts\For Menus\MenuScreenChanger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScoreScript">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAgAACAQABAAAAQIAIAEAAAABAAYAAQEAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ScoreScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="CubeInfo">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Classes\CubeInfo.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Delegate Name="i_delegate&lt;T&gt;">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\For Menus\MenuScreenChanger.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
